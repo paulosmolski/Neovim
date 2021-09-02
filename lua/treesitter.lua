@@ -15,7 +15,6 @@ require'nvim-treesitter.configs'.setup {
 
 -- Treesitter - textobjects
 require'nvim-treesitter.configs'.setup {
-
   textobjects = {
     select = {
       enable = true,
@@ -59,11 +58,10 @@ require'nvim-treesitter.configs'.setup {
     smart_rename = {
       enable = true,
       keymaps = {
-        smart_rename = "gr",
+        smart_rename = "grr",
       },
     },
   },
-
-
 }
+
 
