@@ -2,7 +2,7 @@
 
 ## About
 
-Neovim 0.5 was a revolutionary release. Neovim has finally become a full-fledged IDE, without sacrificing its speed. They've also made conversion from obscure VimScript to Lua, greatly improving the overall speed.
+Neovim 0.5 was a revolutionary release. Neovim has finally become a full-fledged IDE, without sacrificing its speed. Developers added features like LSP and Treesitter. They've also made conversion from obscure VimScript to Lua, greatly improving the overall speed.
 
 It was time to finally upgrade my dotfiles. I've tried to make use of all new features. The effects are quite nice.
 
