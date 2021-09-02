@@ -1,4 +1,3 @@
-
 -- Nvim comment
 require('nvim_comment').setup()
 
@@ -14,6 +13,9 @@ require'lualine'.setup {
 
   }
 }
+
+-- Autopairs
+require('nvim-autopairs').setup{}
 
 -- Packer - package manager
 return require('packer').startup(function()
