@@ -8,9 +8,9 @@ It was time to finally upgrade my dotfiles. I've tried to make use of all new fe
 
 ## Screenshots
 
-![Layout](./screenshots/screen3)
-![Language Server Protocol](./screenshots/screen1)
-![Telescope](./screenshots/screen2)
+![Layout](screenshots/screen3.png)
+![Language Server Protocol](screenshots/screen1.png)
+![Telescope](screenshots/screen2.png)
 
 ## Plugins I use
 
